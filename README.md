@@ -1,4 +1,4 @@
-# Find_LostPet
+# Search_Lost_Animal
 How to run the project
 
 o Unzip the zip file
